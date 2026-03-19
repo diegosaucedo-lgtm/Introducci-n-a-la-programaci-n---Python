@@ -1,0 +1,43 @@
+Aquí tienes 20 ejercicios básicos de Python para practicar y mejorar tus habilidades:
+
+1. **Sumar dos números**: Escribe un programa que pida al usuario dos números y muestre la suma de ambos.
+   
+2. **Número par o impar**: Pide al usuario un número y determina si es par o impar.
+
+3. **Calcular la media**: Solicita tres números al usuario y calcula su media.
+
+4. **Factorial**: Escribe un programa que calcule el factorial de un número introducido por el usuario.
+
+5. **Número primo**: Pide al usuario un número y determina si es un número primo.
+
+6. **Invertir una cadena**: Solicita una cadena al usuario e imprime la cadena invertida.
+
+7. **Contar vocales**: Pide al usuario que introduzca una frase y cuenta el número de vocales que contiene.
+
+8. **Conversión de temperatura**: Escribe un programa que convierta grados Celsius a Fahrenheit.
+
+9. **Números del 1 al 100**: Imprime los números del 1 al 100, pero para los múltiplos de 3 imprime "Fizz", para los múltiplos de 5 imprime "Buzz", y para los múltiplos de ambos imprime "FizzBuzz".
+
+10. **Adivina el número**: Crea un programa que genere un número aleatorio entre 1 y 100, y permita al usuario adivinarlo, dando pistas de "más alto" o "más bajo".
+
+11. **Tablas de multiplicar**: Solicita un número y muestra su tabla de multiplicar hasta el 10.
+
+12. **Número de Fibonacci**: Escribe un programa que genere los primeros n números de la secuencia de Fibonacci.
+
+13. **Calcular potencias**: Solicita una base y un exponente, y calcula la potencia usando un bucle.
+
+14. **Divisores de un número**: Pide al usuario un número y muestra todos sus divisores.
+
+15. **Contar palabras**: Solicita una frase y cuenta cuántas palabras tiene.
+
+16. **Verificar palíndromo**: Pide al usuario que introduzca una palabra y verifica si es un palíndromo.
+
+17. **Ordenar lista**: Crea un programa que tome una lista de números y la ordene de menor a mayor sin usar funciones de ordenación integradas.
+
+18. **Eliminar duplicados**: Pide al usuario una lista de elementos y elimina los duplicados.
+
+19. **Área de un círculo**: Solicita al usuario el radio de un círculo y calcula su área.
+
+20. **Invertir una lista**: Pide al usuario una lista de elementos y muestra la lista invertida.
+
+Estos ejercicios cubren conceptos básicos como entrada/salida, bucles, condicionales, funciones, y estructuras de datos, ideales para empezar a programar en Python.
